@@ -12,7 +12,7 @@ Algoritmo Operación
 	
 	Escribir "El número aleatorio: ", C
 	//Aquí el programa ya habrá atribuido un número aleatorio a C.
-	D <- RAIZ((A+B)/C)
+	D <- RAIZ((A*B)/C)
 	//A continuación introduciremos la funcion Escribir, es muy parecida al resultado.
 	//Para terminar, se redondea el número anterior si es decimal y se queda entero, esa es la función de REDON.
 	Escribir "El resultado es: ",REDON(D)
